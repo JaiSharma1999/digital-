@@ -1,0 +1,53 @@
+.adv{
+position: relative;
+bottom: 500px;
+text-align: center;
+
+}
+.student{
+    position: relative;
+    bottom: 450px;
+    width: 1000px;
+    margin-left: 250px;
+    height: 100px;
+    border: 2px solid gold;
+}
+.talk{
+    position: relative;
+    bottom: 400px;
+}
+#exampleInputEmail1{
+    width: 300px;
+}
+#exampleInputPassword1{
+    width: 300px;
+}
+.first{
+    margin-left: 200px;
+margin-bottom: 20px;
+    
+}
+.first input{
+margin-right: 20px;
+}
+.form{
+    width: 400px;
+    margin-left: 200px;
+    
+}
+
+.phone{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.you{
+    margin-top: 20px;
+}
+.form-check label{
+    position: relative;
+    right: 50px;
+    margin-top: 20px;
+}
+#flexRadioDefault2{
+    margin-top: 22px;
+}
